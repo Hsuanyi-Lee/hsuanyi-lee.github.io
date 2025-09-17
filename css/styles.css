@@ -4455,3 +4455,4 @@ td:last-child {
 .s-header__logo .logo span {
   color: #f05a3f;
 }
+.s-header__logo .logo span{ color:#fff; }
