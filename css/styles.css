@@ -4440,4 +4440,18 @@ td:last-child {
     .ss-go-top {
         right: -2rem;
     }
+}/* ==== Text logo to mimic original Hudson logo ==== */
+.s-header__logo .logo {
+  font-family: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 1;
+  letter-spacing: 0;
+  color: #ffffff;
+  text-decoration: none;
+  display: inline-block;
+  transform: translateY(1px);
+}
+.s-header__logo .logo span {
+  color: #f05a3f;
 }
