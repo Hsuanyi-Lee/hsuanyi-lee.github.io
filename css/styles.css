@@ -4456,3 +4456,4 @@ td:last-child {
   color: #f05a3f;
 }
 .s-header__logo .logo span{ color:#fff; }
+.s-header__logo .logo span{ color:inherit; }
